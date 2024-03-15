@@ -2,3 +2,4 @@ builtwith
 dnspython
 requests
 colorama
+python-whois
